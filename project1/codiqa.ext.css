@@ -1,9 +1,25 @@
 /* Put your custom CSS here */
-#projects {
+.projects_services {
+	margin:0 auto;
+    text-align:center;
+}
+
+.projects {
 	float: left;
 }
 
-#services {
+
+
+
+.services {
+	float: right;
+}
+
+.logo_img {
+	float: left;
+}
+
+.logo_text {
 	float: right;
 }
 
@@ -11,6 +27,14 @@ h2 {
 	margin-left: 50%;
 	margin-right: 50%;
 	text-align: centre
+}
+
+.mac_header {
+	width: 100%; 
+	height: 100px; 
+	position: relative; 
+	background-color: #fbfbfb; 
+	border: 1px solid #b8b8b8;
 }
 
 
