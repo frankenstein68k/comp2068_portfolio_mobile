@@ -58,17 +58,35 @@ h5.logo_text {
 	margin-right: auto;
 }
 
+#portrait {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#slider_placeholder {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#slider_image {
+	width: 90%;
+}
+
 /*
  * CSS relating to every page
  */
 
+/*
+ * Webfonts
+ */
 * {
 	font-family: Helvetica, Arial, sans-serif;
 }
 
 .main_content {
 	padding: 5%;
-	background-color: red;
 	top: 0;
 	bottom: 0;
 	left: 0;
@@ -76,8 +94,3 @@ h5.logo_text {
 	margin: auto;
 }
 
-#portrait {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
